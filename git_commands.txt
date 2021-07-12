@@ -1,0 +1,24 @@
+1. for version check 
+        git --version
+2. config/reg in git 
+        git config --global user.name ""
+        git config --global user.email ""
+        git config --list for check list
+
+3.to see where the config located used
+                pwd
+
+4.to list all the files
+        ls --al
+
+5. To open file
+    gedit .gitconfig(filename)
+
+6. to clear terminal use "clear"
+
+7. make directory used
+            mkdir  git_workspace
+8. to go another directory use "cd directoryname"
+
+9. "touch" command used to create, change and modify timestamps of a file
+10. "git branch master" to create new branch
